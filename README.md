@@ -1,0 +1,2 @@
+# printai
+Artificial Inteligence student
